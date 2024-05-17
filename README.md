@@ -12,6 +12,10 @@
 - Prettier
 - Dotenv
 
+## Environment Variables
+
+VITE_API_HOST=<REPLACE WITH YOUR LOCAL API>
+
 ## Instructions
 
 1. Fork and Clone the repository

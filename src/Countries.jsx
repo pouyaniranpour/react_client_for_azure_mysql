@@ -1,7 +1,7 @@
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
 // const API_HOST = import.meta.env.VITE_APP_API_HOST;
-const API_HOST = 'https://mr-countries-names.azurewebsites.net/';
+const API_HOST = 'https://mr-countries-names.azurewebsites.net';
 
 console.log(API_HOST);
 
